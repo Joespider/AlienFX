@@ -1,0 +1,14 @@
+alien
+15 red
+0 green
+0 blue
+False
+
+steam
+15 red
+0 green
+0 blue
+False
+
+brightness
+6
